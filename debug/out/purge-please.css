@@ -1,0 +1,13 @@
+.\:hocus--visibility\:hidden:focus,
+.\:hocus--visibility\:hidden:hover {
+  visibility: hidden
+}
+
+.\:hover--opacity\:40:hover {
+  opacity: .4
+}
+
+/* this should be purged: */
+.\:hover--opacity\:50:hover {
+  opacity: .5
+}

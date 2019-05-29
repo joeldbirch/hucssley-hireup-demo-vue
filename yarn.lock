@@ -4243,6 +4243,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
+"hucssley@github:stowball/hucssley#syntax-refactor":
+  version "0.1.0"
+  resolved "https://codeload.github.com/stowball/hucssley/tar.gz/cf61cbdeb93f1fd8f3f0495527f716e4729dbd1f"
+
 iconv-lite@0.4.23:
   version "0.4.23"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.23.tgz#297871f63be507adcfbfca715d0cd0eed84e9a63"
